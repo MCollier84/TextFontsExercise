@@ -1,17 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
 
+/* @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap'); */
+
+/* 2 */
 html {
     font-family: 'Orbitron', sans-serif;
 }
 
+/* 3 */
 span {
     font-weight: bold;
 }
 
+/* 4 */
 h1 {
     font-size: 50px;
 }
-
+/* 5-8 */
 h1 {
     letter-spacing: 10px;
 }
@@ -29,22 +34,27 @@ h1 {
     text-decoration: underline;
 }
 
+/* 9 */
 #series-movies {
     font-size: 20px;
 }
 
+/* 10 */
 h2  {
     font-size: 2em
 }
 
+/* 11 */
 li {
     line-height: 2;
 }
 
+/* 12 */
 #characters {
     font-size: 18px;
 }
 
+/* 13 */
 h4 {
     letter-spacing: 15px;
 }
@@ -75,4 +85,5 @@ body {
 
 body {
     background-size: cover;
+    background-position: center;
 }
